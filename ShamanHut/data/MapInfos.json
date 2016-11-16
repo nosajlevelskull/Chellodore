@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"ShamanHut","order":3,"parentId":2,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":1,"expanded":true,"name":"ShamanHut","order":3,"parentId":2,"scrollX":539.3333333333334,"scrollY":307.3333333333333},
 {"id":2,"expanded":true,"name":"L2-1","order":2,"parentId":3,"scrollX":1077,"scrollY":599},
-{"id":3,"expanded":true,"name":"CaveEntrance","order":1,"parentId":0,"scrollX":809,"scrollY":739},
+{"id":3,"expanded":true,"name":"CaveEntrance","order":1,"parentId":0,"scrollX":650,"scrollY":734},
 {"id":4,"expanded":false,"name":"Cave","order":4,"parentId":3,"scrollX":544.6666666666666,"scrollY":307.3333333333333}
 ]
