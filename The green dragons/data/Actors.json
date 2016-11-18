@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor2_6","characterIndex":3,"characterName":"Monster","classId":1,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chellodore","nickname":"Chell","note":"","profile":""}
+{"id":1,"battlerName":"Actor2_6","characterIndex":3,"characterName":"Monster","classId":1,"equips":[2,0,0,1,2],"faceIndex":3,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chellodore","nickname":"Chell","note":"","profile":""}
 ]
